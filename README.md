@@ -28,21 +28,27 @@ After graduating from university, I changed my occupation and worked in televisi
 
 - :heavy_check_mark: Basic knowledge: Django, Git, JavaScript, SQL, PostgreSQL.
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=IuuVVwsdTi2v&format=png" alt="sql" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=IuuVVwsdTi2v&format=png" alt="django" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=108784&format=png" alt="git" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=108784&format=png" alt="JS" width="40" height="40"/> </a>
   <a href="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" alt="sql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="sql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="postgreSQL" width="40" height="40"/> </a>
   
 - :heavy_check_mark: Experience with: Linux, Docker, Redis, RabbitMQ, Celery, Java.
   
-  <a href="https://linux-docs.vercel.app/docs/what-is-linux" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=HF4xGsjDERHf&format=png" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=22813&format=png" alt="java" width="40" height="40"/> </a>
-  <a href="https://redis.io/?page" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=pHS3eRpynIRQ&format=png" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="java" width="35" height="35"/> </a>
-  <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="java" width="35" height="40"/> </a>
+  <a href="https://linux-docs.vercel.app/docs/what-is-linux" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=HF4xGsjDERHf&format=png" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=22813&format=png" alt="docker" width="40" height="40"/> </a>
+  <a href="https://redis.io/?page" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=pHS3eRpynIRQ&format=png" alt="redis" width="40" height="40"/> </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="rabbitMQ" width="35" height="35"/> </a>
+  <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="celery" width="35" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> </a>
   
-- :bookmark: Also interested (I would like to learn): Golang,, C#/C++.
+- :bookmark: Also interested (I would like to learn): Golang, C#/C++.
+
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=44442&format=png" alt="golang" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=50&id=55205&format=png" alt="c#" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=40669&format=png" alt="c++" width="40" height="40"/> </a>
+  
 ___
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeiMischenko&theme=aura_dark"/>
+
