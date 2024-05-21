@@ -26,7 +26,7 @@ After graduating from university, I changed my occupation and worked in televisi
   
  <a href="https://www.codewars.com/users/GreySerg" target="_blank" rel="noreferrer"> <img align="right" src="https://github.r2v.ch/codewars?user=GreySerg&theme=nightowl "/> </a>
 
-- :heavy_check_mark: Basic knowledge: Django, Git, JavaScript, SQL, PostgreSQL.
+- :heavy_check_mark: Basic knowledge: Django, Git, JavaScript, Docker, SQL, PostgreSQL.
 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=IuuVVwsdTi2v&format=png" alt="django" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -35,7 +35,7 @@ After graduating from university, I changed my occupation and worked in televisi
   <a href="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" alt="sql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="postgreSQL" width="40" height="40"/> </a>
   
-- :heavy_check_mark: Experience with: Linux, Docker, Redis, RabbitMQ, Celery, Java.
+- :heavy_check_mark: Experience with: Linux, Redis, RabbitMQ, Celery, Java.
   
   <a href="https://linux-docs.vercel.app/docs/what-is-linux" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=HF4xGsjDERHf&format=png" alt="linux" width="40" height="40"/> </a>
   <a href="https://redis.io/?page" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=pHS3eRpynIRQ&format=png" alt="redis" width="40" height="40"/> </a>
