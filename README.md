@@ -10,7 +10,7 @@
 </div>
 
 ---
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergeiMischenko&theme=aura_dark"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiMischenko&theme=aura_dark&layout=compact"/>
 
 :purple_heart: My name is Sergei Mishchenko. I've been programming since September 2023, and I'm really into it. I hold a bachelor's degree in Programming. 
 
