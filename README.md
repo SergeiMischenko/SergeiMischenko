@@ -10,6 +10,7 @@
 </div>
 
 ---
+[![wakatime](https://wakatime.com/badge/user/bda4662e-32a5-41c2-8891-55395b3f3783.svg)](https://wakatime.com/@bda4662e-32a5-41c2-8891-55395b3f3783)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiMischenko&theme=aura_dark&layout=compact"/>
 
 :purple_heart: My name is Sergei Mishchenko. I've been programming since September 2023, and I'm really into it. I hold a bachelor's degree in Programming. 
@@ -48,7 +49,7 @@ After graduating from university, I changed my occupation and worked in televisi
   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=44442&format=png" alt="golang" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=50&id=55205&format=png" alt="c#" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=40669&format=png" alt="c++" width="40" height="40"/> </a>
-  
+
 ___
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeiMischenko&theme=aura_dark"/>
 
