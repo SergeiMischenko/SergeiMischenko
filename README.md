@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/SergeiMischenko" target="_blank">Sergei</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">🐍 Python Junior Developer</h4>
+<h4 align="center">🐍 Python Developer</h4>
 
 <div align="center">
   </a>
